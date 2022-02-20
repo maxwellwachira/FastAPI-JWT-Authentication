@@ -51,7 +51,7 @@ The secret in the environment file (.env.example) should be something stronger a
 
 # Acknowledgement
 Special thanks to [Abdulazeez Abdulazeez Adeshina](https://testdriven.io/authors/adeshina/) for the awesome [tutorial](https://testdriven.io/blog/fastapi-jwt-auth/)
-Special thanks to [Sebastián Ramírez aka @tiangolo](https://github.com/tiangolo) the creator of FastAPI 
+and also to [Sebastián Ramírez aka @tiangolo](https://github.com/tiangolo) the creator of FastAPI 
 
 
 ## <b>License</b>
